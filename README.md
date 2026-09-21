@@ -9,4 +9,6 @@ DB Admin: Cortez, Khrisz Alessandra A.
 Dev: Pampa, Norminah P.
 
 Tester: Villanueva, Ylthea Dawn P.
+
+
 why the hell am I the scrum master u scrums 

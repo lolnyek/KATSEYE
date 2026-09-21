@@ -6,6 +6,6 @@ UI Designer: Dobles, Ashley Nicole Z.
 
 DB Admin: 
 
-Dev:
+Dev: Pampa, Norminah P.
 
 Tester:

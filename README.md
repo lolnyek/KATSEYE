@@ -2,6 +2,6 @@
 
 SCRUM MASTER: Acorda, Zyrian Ian C.
 
-UI Designer:
+UI Designer: Dobles, Ashley Nicole Z. 
 
 DB Admin: 
